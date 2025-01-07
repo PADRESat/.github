@@ -8,5 +8,17 @@ The solar PolArization and Directivity X-Ray Experiment (PADRE) is a 12U small s
 
 PADRE hosts two instruments:
 
-* solar HARd x-ray Polarimeter (SHARP) led by the [Space Sciences Lab](https://www.ssl.berkeley.edu/) at UC Berkeley
-* Measuring Directivity to Determine Electron Anisotropy (MeDDEA) led by the [Heliophysics Division](https://science.gsfc.nasa.gov/heliophysics/) of the NASA Goddard Space Flight Center
+* SHARP (solar HARd x-ray Polarimeter) led by the [Space Sciences Lab](https://www.ssl.berkeley.edu/) at UC Berkeley ([software](https://github.com/PADRESat/padre_sharp), [docs](https://padre-sharp.readthedocs.io/en/latest/))
+* Measuring Directivity to Determine Electron Anisotropy (MeDDEA) led by the [Heliophysics Division](https://science.gsfc.nasa.gov/heliophysics/) of the NASA Goddard Space Flight Center ([software](https://github.com/PADRESat/padre_meddea), [docs](https://padre-meddea.readthedocs.io/en/latest/))
+
+PADRE is currently in development and will launch in 2025.
+
+### Data
+
+To see the latest quicklook data (coming soon), access our [grafana dashboard](https://grafana.padre.swsoc.smce.nasa.gov/login).
+
+### Acknowledgements
+This project would like to acknowledge the following projects 
+* the [Space Weather Science Operation Center](https://swxsoc.github.io)
+* [SunPy](https://sunpy.org)
+* [AstroPy](https://astropy.org)
