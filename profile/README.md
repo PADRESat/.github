@@ -17,7 +17,7 @@ PADRE [launched](https://www.spacex.com/launches/mission/?missionId=transporter1
 
 Data can be found at [https://umbra.nascom.nasa.gov/padre/](https://umbra.nascom.nasa.gov/padre/).
 
-To see the latest quicklook data, access our [grafana dashboard](https://grafana.padre.swsoc.smce.nasa.gov/login).
+To see the latest quicklook data, access our [grafana dashboard](https://grafana.padre.swsoc.smce.nasa.gov/public-dashboards/dfdb738a05a848bca432e42068e76742).
 
 ### Acknowledgements
 This project would like to acknowledge the following projects 
