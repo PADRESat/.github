@@ -13,7 +13,7 @@ PADRE hosts two instruments:
 
 PADRE [launched](https://www.spacex.com/launches/mission/?missionId=transporter14) successfully on June 23rd, 2025. First light is expected around August 2025.
 
-### Data (coming soon)
+### Data
 
 Data can be found at [https://umbra.nascom.nasa.gov/padre/](https://umbra.nascom.nasa.gov/padre/).
 
